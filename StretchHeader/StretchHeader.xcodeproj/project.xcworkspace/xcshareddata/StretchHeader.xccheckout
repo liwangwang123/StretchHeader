@@ -10,31 +10,29 @@
 	<string>StretchHeader</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D1372BA784C930F1C292105DBB44512C0FB8B144</key>
-		<string>https://github.com/ljhang/StretchHeader.git</string>
+		<key>b1390cc4-002b-7acf-7485-ce57b7db7bff</key>
+		<string>https://1432103394%40qq.com@github.com/liwangwang123/hhh.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>StretchHeader/StretchHeader.xcodeproj</string>
+	<string>trunk/StretchHeader/StretchHeader.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D1372BA784C930F1C292105DBB44512C0FB8B144</key>
-		<string>../../..</string>
+		<key>b1390cc4-002b-7acf-7485-ce57b7db7bff</key>
+		<string>../../../..</string>
 	</dict>
-	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ljhang/StretchHeader.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D1372BA784C930F1C292105DBB44512C0FB8B144</string>
+	<string>b1390cc4-002b-7acf-7485-ce57b7db7bff</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
+			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D1372BA784C930F1C292105DBB44512C0FB8B144</string>
+			<string>b1390cc4-002b-7acf-7485-ce57b7db7bff</string>
 			<key>IDESourceControlWCCName</key>
-			<string>StretchHeader</string>
+			<string>hhh.git</string>
 		</dict>
 	</array>
 </dict>
