@@ -37,6 +37,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //我爱你就像爱吃水煮鱼
+    //我爱你就像爱吃水煮鱼
+
     self.title = @"我的";
     self.automaticallyAdjustsScrollViewInsets = NO;
     
